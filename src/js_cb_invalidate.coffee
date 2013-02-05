@@ -1,5 +1,5 @@
 ###
-
+Copyright (c) 2013, Andrew Hanna, Burn37.com Inc.
 ###
 
 class this.CallbackInvalidator
